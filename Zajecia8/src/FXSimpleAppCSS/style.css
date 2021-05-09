@@ -1,0 +1,16 @@
+.root
+{
+    -fx-background-color: cornflowerblue;
+}
+
+#btn
+{
+    -fx-background-color: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 32px;
+}
+
+#btn:hover
+{
+    -fx-background-color: lightskyblue;
+}

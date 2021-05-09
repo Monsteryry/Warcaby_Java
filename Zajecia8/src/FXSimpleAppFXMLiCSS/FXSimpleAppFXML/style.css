@@ -1,0 +1,11 @@
+.gridPane
+{
+    -fx-background-color: yellow;
+
+}
+
+#btn
+{
+    -fx-font-size: 32px;
+    -fx-font-weight: bold;
+}
